@@ -1,0 +1,1 @@
+img1 = ['https://thecode.media/wp-content/uploads/2019/12/bot-1080x552.png']
